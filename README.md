@@ -1,3 +1,8 @@
+## Installation
+``` js
+$ npm install
+```
+
 ## Quick Start
 Start the server:
 ```
